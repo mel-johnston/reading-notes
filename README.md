@@ -1,6 +1,5 @@
 # My Reading Notes for CodeFellows
 
----
 
 ## Code 102d45
 
