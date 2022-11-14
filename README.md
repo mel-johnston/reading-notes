@@ -3,7 +3,7 @@
 
 ## Code 102d45
 
-[Class 1 Notes](class1.md)
+[Class 1 Notes](class2.md)
 
 ### Growth Mindset
 Growth mindset allows you to change and adapt to *any* situation. When encountering obstacles, if you have a growth mindset, you will be better prepared to tackle problem instead of giving up. 
