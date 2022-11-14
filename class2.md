@@ -32,3 +32,5 @@ This is a way to navigate your computer through simple commands (vs using a mous
 
 
 ## Things I want to know more about
+
+- Ubuntu
