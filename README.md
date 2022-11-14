@@ -1,8 +1,8 @@
 # My Reading Notes for CodeFellows
 
 - [Home](README.md)
-- [Class 2 Notes](class2.md)
-- [Class 3 Notes](class3.md)
+- [Class 2](class2.md)
+- [Class 3](class3.md)
 
 ---
 
