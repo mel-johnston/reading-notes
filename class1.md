@@ -2,4 +2,4 @@
 
 [Home](README.md)
 
-# Class 2 Notes - Markdown
+## Class 2 Notes - Markdown
