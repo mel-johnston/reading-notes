@@ -4,9 +4,9 @@
 Hi, my name is Melanie. I'm new to programming but enjoy learning languages and building things.
 
 ## Growth Mindset
-Growth mindset allows you to change and adapt to any situation. When encountering obstacles, if you have a growth mindset, you will be better prepared to tackle problem instead of giving up. 
+Growth mindset allows you to change and adapt to *any* situation. When encountering obstacles, if you have a growth mindset, you will be better prepared to tackle problem instead of giving up. 
 
-**3 reminders to stay in a growth mindset:**
+**Some reminders to stay in a growth mindset:**
 - You don't have to do it alone, there are endless resources
 - You don't have to learn it all once, practice and skill take time
 - Making it fun will help you enjoy the process of learning
