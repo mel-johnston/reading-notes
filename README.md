@@ -1,9 +1,12 @@
 # My Reading Notes for CodeFellows
 
-## Bio
-Hi, my name is Melanie. I'm new to programming but enjoy learning languages and building things.
+---
 
-## Growth Mindset
+## Code 102d45
+
+Day 1
+
+### Growth Mindset
 Growth mindset allows you to change and adapt to *any* situation. When encountering obstacles, if you have a growth mindset, you will be better prepared to tackle problem instead of giving up. 
 
 **Some reminders to stay in a growth mindset:**
@@ -17,8 +20,12 @@ For example, learning how to bake bread might seem daunting. However, there are 
 ![breads](https://user-images.githubusercontent.com/117950255/201762210-637c878a-ea54-4ce7-ab74-1195d8db5d2c.jpg)
 
 ><sub>Photo by <a href="https://unsplash.com/@moniqa?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Monika Grabkowska</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></sub>
-  
 
-### Contact
+---
+
+#### Bio
+Hi, my name is Melanie. I'm new to programming but enjoy learning languages and building things.
+
+#### Contact
 
 [Github Porfolio](https://github.com/melanie-johnston)
