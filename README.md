@@ -1,7 +1,5 @@
 # My Reading Notes for CodeFellows
 
-Quick Links
-
 - [Home](README.md)
 - [Class 2 Notes](class2.md)
 - [Class 3 Notes](class3.md)
