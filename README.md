@@ -1,9 +1,12 @@
 # My Reading Notes for CodeFellows
 
+Quick Links
 
-## Code 102d45
+- [Home](README.md)
+- [Class 2 Notes](class2.md)
+- [Class 3 Notes](class3.md)
 
-[Class 1 Notes](class2.md)
+---
 
 ### Growth Mindset
 Growth mindset allows you to change and adapt to *any* situation. When encountering obstacles, if you have a growth mindset, you will be better prepared to tackle problem instead of giving up. 
