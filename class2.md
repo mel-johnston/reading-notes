@@ -18,15 +18,17 @@ To Do
 
 **Code Editors**
 
-Some examples:
+Code editors are interactive programs that make coding simple and easy to understand. By combining prompts, color coding, and explanation comments, coding is easier than ever. They also work with many coding languages so you don't need to download tons of applications to experiment with other languages. 
+
+Here are some of the most popular examples:
 - VSCode
 - GitHub's Atom
 - NotePad++
 
-These make coding an interactive experience. 
-
 
 **The Terminal** aka command line interface (CLI)
 
+This is a way to navigate your computer through simple commands (vs using a mouse and keyboard). This isn't limited to just navgated, you can create and delete files and folders as well. 
 
 
+## Things I want to know more about
