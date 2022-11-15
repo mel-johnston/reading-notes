@@ -30,6 +30,6 @@ Here are some of the most popular examples:
 This is a way to navigate your computer through text-based commands (vs using a mouse and keyboard). 
 
 
-## Things I want to know more about
+### Things I want to know more about
 
 - Ubuntu
