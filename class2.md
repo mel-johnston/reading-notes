@@ -1,19 +1,18 @@
-# My Reading Notes for CodeFellows
-
 - [Home](README.md)
+- [Class 1](class1.md)
 - [Class 2](class2.md)
 - [Class 3](class3.md)
 
 ---
 
-### Class 2 Notes - Markdown
+## Class 2 Notes - Markdown
 
 To Do
 - [x] Add a new page to your reading notes.
-- [ ] Add a link to this new page under the Table of Contents for this course.
-- [ ] Complete the reading assignment in your new page by adding notes.
-- [ ] Publish your updates.
-- [ ] Copy the rendered content, and paste it into the discussion.
+- [x] Add a link to this new page under the Table of Contents for this course.
+- [x] Complete the reading assignment in your new page by adding notes.
+- [x] Publish your updates.
+- [x] Copy the rendered content, and paste it into the discussion.
 
 
 **Code Editors**
@@ -28,7 +27,7 @@ Here are some of the most popular examples:
 
 **The Terminal** aka command line interface (CLI)
 
-This is a way to navigate your computer through simple commands (vs using a mouse and keyboard). This isn't limited to just navgated, you can create and delete files and folders as well. 
+This is a way to navigate your computer through text-based commands (vs using a mouse and keyboard). 
 
 
 ## Things I want to know more about
