@@ -4,7 +4,11 @@
 
 ---
 
+<<<<<<< HEAD
 Here are the links for all my class reading notes:
+=======
+[Class 1- Learning Markdown](https://melanie-johnston.github.io/reading-notes/102/class1)
+>>>>>>> 926dccd8ff697c05fdb1458bd89f6a223972fd35
 
 [Class 1- Learning Markdown](https://melanie-johnston.github.io/reading-notes/102/class1)
 
