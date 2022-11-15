@@ -4,7 +4,7 @@
 
 ---
 
-[Class 1- Learning Markdown](https://melanie-johnston.github.io/reading-notes/102/class1.md)
+[Class 1- Learning Markdown](https://melanie-johnston.github.io/reading-notes/102/class1)
 
 [Class 2 - The Coder's Computer](class2.md)
 
