@@ -25,17 +25,17 @@ Here are some of the most popular examples:
 
 This is a way to navigate your computer through text-based commands (vs using a mouse and keyboard). You are given a prompt and type a respone. The terminal will produce a text response, and the cycle continues. 
 
-Here are some navigation shortcuts to know:
+**Here are some navigation shortcuts to know:**
 
 * pwd -> Print Working Directory -> this shows your current or present working directory
 * ls - > list -> this can show your current directory or specific directories 
 * cd -> Change Directories -> this allows you to change directories
 
-*Key takeaways from this lesson:*
+**Key takeaways from this lesson:**
 
-1. **Everything is a file**
-2. **Files can have any extension or none at all**
-3. **Everything is case sensitive**
+1. Everything is a file
+2. Files can have any extension or none at all
+3. Everything is case sensitive
 
 ---
 
