@@ -12,8 +12,16 @@
 Markdown is important to know and understand when learning to code.
 It's even more basic than HTML and can be learned very quickly.
 
+Here are some quick examples to see the differences between Markdown adn HTML:
+
+    Markdown                HTML
+    # Heading level 1       <h1>Heading level 1</h1>
+    **I am bold**           <strong>I am bold</strong>
+    *I am italicized*       <em>I am italicized</em>
+
 
 ### Things I want to know more about
 
-- When to use Markdown vs HTML?
+- How often will I be using Markdown?
+- When best to use Markdown vs HTML?
 
