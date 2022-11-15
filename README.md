@@ -7,7 +7,7 @@
 
 ## Welcome!
 
-This is a collection of all my reading notes my from CodeFellows courses. I am currently in Code 102. 
+This is a collection of all my reading notes my from CodeFellows courses. I am currently in Code 102.
 
 ## Bio
 
