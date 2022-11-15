@@ -8,11 +8,11 @@
 ## Class 2 Notes - Markdown
 
 To Do
-- [x] Add a new page to your reading notes.
-- [x] Add a link to this new page under the Table of Contents for this course.
-- [x] Complete the reading assignment in your new page by adding notes.
-- [x] Publish your updates.
-- [x] Copy the rendered content, and paste it into the discussion.
+- [x]  Add a new page to your reading notes.
+- [x]  Add a link to this new page under the Table of Contents for this course.
+- [x]  Complete the reading assignment in your new page by adding notes.
+- [x]  Publish your updates.
+- [x]  Copy the rendered content, and paste it into the discussion.
 
 
 **Code Editors**
