@@ -1,5 +1,11 @@
 # Name of website
-title: My Website
+title: Reading Notes
 
 # Your name to show in the footer
-author: Some Person
+author: Melanie Johnston
+
+navbar-links:
+  Home: "home"
+  [Home](README.md)
+  [Class 2](class2.md)
+  [Class 3](class3.md)
