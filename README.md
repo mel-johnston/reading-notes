@@ -5,7 +5,7 @@
 
 ---
 
-### Growth Mindset
+## Growth Mindset
 Growth mindset allows you to change and adapt to *any* situation. When encountering obstacles, if you have a growth mindset, you will be better prepared to tackle problem instead of giving up. 
 
 **Some reminders to stay in a growth mindset:**
@@ -22,9 +22,9 @@ For example, learning how to bake bread might seem daunting. However, there are 
 
 ---
 
-#### Bio
+### Bio
 Hi, my name is Melanie. I'm new to programming but enjoy learning languages and building things.
 
-#### Contact
+### Contact
 
 [Github Porfolio](https://github.com/melanie-johnston)
