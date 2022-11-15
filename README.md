@@ -1,7 +1,7 @@
 # Melanie's Reading Notes
 
 
-[Home](README.md) |  [Code 102](https://melanie-johnston.github.io/reading-notes/102/home102) | [Code 201](https://melanie-johnston.github.io/reading-notes/201/home201)
+[Home](README.md) |  [Code 102](102/home102.md) | [Code 201](201/home201.md)
 
 ---
 
