@@ -9,10 +9,10 @@
 
 ### Class 1 Notes - Markdown
 
-Markdown is important to know and understand when learning to code.
-It's even more basic than HTML and can be learned very quickly.
+Markdown is important to know and understand when learning to code. 
+It's even more basic than HTML and can be learned very quickly. 
 
-Here are some quick examples to see the differences between Markdown adn HTML:
+Here are some quick examples to see the differences between Markdown and HTML:
 
     Markdown                HTML
     # Heading level 1       <h1>Heading level 1</h1>
