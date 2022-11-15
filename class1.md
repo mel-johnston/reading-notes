@@ -17,7 +17,7 @@ Here are some quick examples to see the differences between Markdown and HTML:
     **I am bold**           <strong>I am bold</strong>
     *I am italicized*       <em>I am italicized</em>
 
-
+---
 ### Things I want to know more about
 
 - How often will I be using Markdown?
