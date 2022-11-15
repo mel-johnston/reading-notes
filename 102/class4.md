@@ -1,17 +1,14 @@
 # Code 102 Reading Notes
 
-[Home](README.md) | [Code 102](102/home102) | [Code 201](201/home201)
-
----
-
-[Class 1](102/class1) ~
-[Class 2](102/class2) ~
-[Class 3](102/class3) ~
-[Class 4](102/class4) ~
-[Class 5](102/class5) ~
-[Class 6](102/class6) ~
-[Class 7](102/class7) ~
-[Class 8](102/class8)
+[Home](README.md) |
+[Class 1](https://melanie-johnston.github.io/reading-notes/102/class1)
+[Class 2](https://melanie-johnston.github.io/reading-notes/102/class2)
+[Class 3](https://melanie-johnston.github.io/reading-notes/102/class3)
+[Class 4](https://melanie-johnston.github.io/reading-notes/102/class4)
+[Class 5](https://melanie-johnston.github.io/reading-notes/102/class5)
+[Class 6](https://melanie-johnston.github.io/reading-notes/102/class6)
+[Class 7](https://melanie-johnston.github.io/reading-notes/102/class7)
+[Class 8](https://melanie-johnston.github.io/reading-notes/102/class8)
 
 ## Class 4 Notes - Structure Web Pages
 
@@ -24,11 +21,8 @@ You could draw it with pencil and paper or use one of the many wireframe tools a
 It's important to remember that this is just a rough draft and you don't need to be meticulous with details.
 Three key things to keep in mind:
 - Clarity
-  - what is your webpage?
 - Confidence
-  - how easy is it to use?
 - Simplicity
-  *
 
 ### HTML Basics
 
