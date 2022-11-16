@@ -12,3 +12,20 @@
 ---
 
 ### Class 6 Notes - Dynamic Web Pages with JavaScript
+
+JavaScript is what makes webpages perform the actions you want. Of course, it's used in creating web pages, but it is also used in other things like Adobe Acrobat, andn Node.js. 
+
+Similar to CSS, you will most likely link an external JavaScript file in your HTML. 
+
+JavaScript has **variables** which are labelled with **identifiers**.
+
+The general rules for identifiers:
+
+- Names can contain letters, digits, underscores, and dollar signs.
+- Names must begin with a letter.
+- Names are case sensitive (y and Y are different variables).
+- Best practice is use camel case: *camelCaseExample*
+
+#### Things I want to know more about: 
+
+- How to create a search function on my webpage
