@@ -18,13 +18,11 @@ It allows you to plan out your vision for a web page so you have something to re
 There are many different options when it comes to building your wireframe.
 You could draw it with pencil and paper or use one of the many wireframe tools available online.
 It's important to remember that this is just a rough draft and you don't need to be meticulous with details.
-Three key things to keep in mind:
-- Clarity
-- Confidence
-- Simplicity
 
 #### HTML Basics
 
-HyperText Markup Language (HTML) is the code that is the basis for a web page and content
+HyperText Markup Language (HTML) is the code that is the basis for a web page and content.
 
 #### Semantics
+
+Semantics refer to the meaning of a piece of code. There are many reason to use semantics in HTML. Many elements are universally recognized/ 

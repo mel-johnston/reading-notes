@@ -13,4 +13,23 @@
 
 ### Class 3 Notes - Revisions & the Cloud
 
-revisions and cloud notes here...
+What is Git?
+
+- version control system
+- multiple developers can work on the same code
+- recorded history of all changes
+
+Most important to remember:
+
+A-C-P = Add - Commit - Push
+
+        git status
+        git add .
+        git status
+        git commit -m "message"
+        git status
+        git push
+        git status
+
+For more detailed information:
+[Git Tutorial](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
