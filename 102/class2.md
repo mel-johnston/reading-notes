@@ -1,20 +1,19 @@
-# Code 102 Reading Notes
+## Code 102 Reading Notes
 
-[Home](README.md) |
-[Class 1](https://melanie-johnston.github.io/reading-notes/102/class1)
-[Class 2](https://melanie-johnston.github.io/reading-notes/102/class2)
-[Class 3](https://melanie-johnston.github.io/reading-notes/102/class3)
-[Class 4](https://melanie-johnston.github.io/reading-notes/102/class4)
-[Class 5](https://melanie-johnston.github.io/reading-notes/102/class5)
-[Class 6](https://melanie-johnston.github.io/reading-notes/102/class6)
-[Class 7](https://melanie-johnston.github.io/reading-notes/102/class7)
+[Home](README.md) | 
+[Class 1](https://melanie-johnston.github.io/reading-notes/102/class1) -
+[Class 2](https://melanie-johnston.github.io/reading-notes/102/class2) -
+[Class 3](https://melanie-johnston.github.io/reading-notes/102/class3) -
+[Class 4](https://melanie-johnston.github.io/reading-notes/102/class4) -
+[Class 5](https://melanie-johnston.github.io/reading-notes/102/class5) -
+[Class 6](https://melanie-johnston.github.io/reading-notes/102/class6) -
+[Class 7](https://melanie-johnston.github.io/reading-notes/102/class7) -
 [Class 8](https://melanie-johnston.github.io/reading-notes/102/class8)
-
 
 
 ---
 
-## Class 2 Notes - The Coder's Computer
+### Class 2 Notes - The Coder's Computer
 
 **Text Editors**
 
@@ -49,6 +48,6 @@ This is a way to navigate your computer through text-based commands (vs using a 
 
 ---
 
-### Things I want to know more about
+#### Things I want to know more about
 
 - Ubuntu and VSCode integration

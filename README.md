@@ -1,21 +1,13 @@
-# Melanie's Reading Notes
-
-
-[Home](README.md) |  [Code 102](102/home102.md) | [Code 201](201/home201.md)
-
----
-
 ## Welcome!
 
 This is a collection of all my reading notes my from CodeFellows courses. I am currently in Code 102.
 
 ---
 
-## Table of Contents
+### Table of Contents
 <br>
 
-### Code 102
-<br>
+#### Code 102
 
 - [Class 1- Learning Markdown](https://melanie-johnston.github.io/reading-notes/102/class1)
 - [Class 2 - The Coder's Computer](https://melanie-johnston.github.io/reading-notes/102/class2)
@@ -26,11 +18,11 @@ This is a collection of all my reading notes my from CodeFellows courses. I am c
 - [Class 7 - Programming with JavaScript](https://melanie-johnston.github.io/reading-notes/102/class7)
 - [Class 8 - Operators & Loops](https://melanie-johnston.github.io/reading-notes/102/class8)
 
----
 
 
-### Code 201
-<br>
+
+#### Code 201
+
 
 - [Class 1](https://melanie-johnston.github.io/reading-notes/201/class1)
 - [Class 2](https://melanie-johnston.github.io/reading-notes/201/class2)
@@ -48,9 +40,9 @@ This is a collection of all my reading notes my from CodeFellows courses. I am c
 - [Class 14](https://melanie-johnston.github.io/reading-notes/201/class14)
 - [Class 15](https://melanie-johnston.github.io/reading-notes/201/class15)
 
+---
 
-
-## Bio
+### Bio
 
 Hi, my name is Melanie. I'm new to programming but enjoy learning languages and building things.
 

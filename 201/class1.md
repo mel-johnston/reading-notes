@@ -1,6 +1,6 @@
 # Code 201 Reading Notes
 
-[Home](README.md) | 
+[Home](README.md) |
 [Class 1](https://melanie-johnston.github.io/reading-notes/201/class1) -
 [Class 2](https://melanie-johnston.github.io/reading-notes/201/class2) -
 [Class 3](https://melanie-johnston.github.io/reading-notes/201/class3) -
@@ -17,10 +17,8 @@
 [Class 14](https://melanie-johnston.github.io/reading-notes/201/class14) -
 [Class 15](https://melanie-johnston.github.io/reading-notes/201/class15)
 
-
-
 ---
 
-## Class 1 Notes - 
+## Class 1 Notes -
 
 Notes go here

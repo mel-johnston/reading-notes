@@ -1,4 +1,4 @@
-# Code 102 Reading Notes
+## Code 102 Reading Notes
 
 [Home](README.md) | 
 [Class 1](https://melanie-johnston.github.io/reading-notes/102/class1) -
@@ -11,7 +11,7 @@
 [Class 8](https://melanie-johnston.github.io/reading-notes/102/class8)
 
 ---
-## Class 1 Notes - Markdown
+### Class 1 Notes - Markdown
 
 Markdown is important to know and understand when learning to code.
 It's even more basic than HTML and can be learned very quickly.
@@ -25,7 +25,7 @@ Here are some quick examples to see the differences between Markdown and HTML:
 
 ---
 
-### Things I want to know more about
+#### Things I want to know more about
 
 - How often will I be using Markdown?
 - When best to use Markdown vs HTML?

@@ -1,17 +1,17 @@
-# Code 102 Reading Notes
+## Code 102 Reading Notes
 
-[Home](README.md) |
-[Class 1](https://melanie-johnston.github.io/reading-notes/102/class1)
-[Class 2](https://melanie-johnston.github.io/reading-notes/102/class2)
-[Class 3](https://melanie-johnston.github.io/reading-notes/102/class3)
-[Class 4](https://melanie-johnston.github.io/reading-notes/102/class4)
-[Class 5](https://melanie-johnston.github.io/reading-notes/102/class5)
-[Class 6](https://melanie-johnston.github.io/reading-notes/102/class6)
-[Class 7](https://melanie-johnston.github.io/reading-notes/102/class7)
+[Home](README.md) | 
+[Class 1](https://melanie-johnston.github.io/reading-notes/102/class1) -
+[Class 2](https://melanie-johnston.github.io/reading-notes/102/class2) -
+[Class 3](https://melanie-johnston.github.io/reading-notes/102/class3) -
+[Class 4](https://melanie-johnston.github.io/reading-notes/102/class4) -
+[Class 5](https://melanie-johnston.github.io/reading-notes/102/class5) -
+[Class 6](https://melanie-johnston.github.io/reading-notes/102/class6) -
+[Class 7](https://melanie-johnston.github.io/reading-notes/102/class7) -
 [Class 8](https://melanie-johnston.github.io/reading-notes/102/class8)
 
 ---
 
-## Class 3 Notes - Revisions & the Cloud
+### Class 3 Notes - Revisions & the Cloud
 
 revisions and cloud notes here...
