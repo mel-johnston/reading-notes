@@ -33,3 +33,7 @@ A-C-P = Add - Commit - Push
 
 For more detailed information:
 [Git Tutorial](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
+
+#### Things I want to know more about
+
+- I want to learn more terminal commands to use it more efficiently

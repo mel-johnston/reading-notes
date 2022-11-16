@@ -25,4 +25,8 @@ HyperText Markup Language (HTML) is the code that is the basis for a web page an
 
 #### Semantics
 
-Semantics refer to the meaning of a piece of code. There are many reason to use semantics in HTML. Many elements are universally recognized/ 
+Semantics refer to the meaning of a piece of code. There are many reason to use semantics in HTML. Many elements are universally recognized.
+
+#### Things I want to know more about
+
+- HTML in practice
