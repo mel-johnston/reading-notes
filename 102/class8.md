@@ -1,6 +1,5 @@
 ## Code 102 Reading Notes
 
-[Home](README.md) | 
 [Class 1](https://melanie-johnston.github.io/reading-notes/102/class1) -
 [Class 2](https://melanie-johnston.github.io/reading-notes/102/class2) -
 [Class 3](https://melanie-johnston.github.io/reading-notes/102/class3) -
