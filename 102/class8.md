@@ -12,3 +12,30 @@
 ---
 
 ### Class 8 Notes - Operators & Loops
+
+Comparison operators 
+
+- A comparison operator compares its operands and returns a logical value based on whether the comparison is true.
+
+- Equal (==) returns true if the operands are equal.
+
+
+Assignment operators
+
+- An assignment operator assigns a value to its left operand based on the value of its right operand.
+
+- equal (=) assigns the value of its right operand to its left operand
+
+- That is, `x = f()` is an assignment expression that assigns the value of f() to x.
+
+
+while statement
+
+- This is a fun one to code because it will not let the user continue unless they put the correct input. 
+
+
+---
+
+#### Things I want to know more about:
+
+- making my websites do fun things
