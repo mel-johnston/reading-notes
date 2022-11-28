@@ -53,7 +53,7 @@
 - An if statement checks a condition and if it evaluates to true, then the code block will execute.
 - What is the use of an else if? This is used to chain extra choices/options.
 - List 3 different types of comparison operators. Greater than (>), less than (<), and does-not-equal (!==)
-- What is the difference between the logical operator && and ||? 
+- What is the difference between the logical operator `&&` and `||`? 
   - `&&` - AND; allows to you chain together two or more expressions so that all of them have to individually evaluate to true for the whole expression to return true.
   - `||` — OR; allows you to chain together two or more expressions so that one or more of them have to individually evaluate to true for the whole expression to return true.
 
