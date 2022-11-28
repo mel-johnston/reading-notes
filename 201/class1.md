@@ -18,7 +18,7 @@
 
 ---
 
-## Class 1 Notes -
+## Class 1 Notes - Intro to HTML, JavaScript, & Websites
 
 ### Getting Started
 
@@ -36,7 +36,7 @@ Read the following sections of JavaScript Basics: Start at “What is JavaScript
 
 - Describe how HTML, CSS, and JS files are “parsed” in the browser. The browser parses the HTML file first, and that leads to the browser recognizing any `link`-element references to external CSS stylesheets and any `script`-element references to scripts. As the browser parses the HTML, it sends requests back to the server for any CSS files it has found from `link` elements, and any JavaScript files it has found from `script` elements, and from those, then parses the CSS and JavaScript.
 
-- How can you find images to add to a Website? The easiest way to find images is through Google images, but you need to be sure use the license filter tool and select #Creative Commons licenses#
+- How can you find images to add to a Website? The easiest way to find images is through Google images, but you need to be sure use the license filter tool and select Creative Commons licenses
 
 - How do you create a String vs a Number in JavaScript? A string is a sequence of text that is signified by being inside single quotes: 'this is a string'. A number is differentiated from a string by simply being...a number: 20193.
 
@@ -95,3 +95,8 @@ Read the following sections of JavaScript Basics: Start at “What is JavaScript
   
 - How can you add JavaScript to an HTML document?
   JavaScript is applied to your HTML page in a similar manner to CSS. Whereas CSS uses `link` elements to apply external stylesheets and `style` elements to apply internal stylesheets to HTML, JavaScript only needs one friend in the world of HTML — the `script` element.
+
+
+#### Things I want to know more about
+
+APIs and querySelectors
