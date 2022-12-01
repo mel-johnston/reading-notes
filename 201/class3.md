@@ -32,7 +32,7 @@ For ordered lists, you can change the `type` to numbers, letters, and Roman nume
 
 Imagine it's Christmas morning and you are opening a present. First you have to unwrap the gift wrapping on the outside - this is the `margin`. Once you take off the gift wrapping, there is the cardboard box. This is the `border`. Once you open the box there is bubblewrap protecting your present. The bubblewrap represents the `padding`. You remove the bubblewrap and finally you've gotten to your present - this is the content!
 
-#### JS - Arrays, Operators & Expressions, Conditionals, Loops
+### JS - Arrays, Operators & Expressions, Conditionals, Loops
 
 Arrays can store various data types — strings, numbers, objects, and even other arrays.
 

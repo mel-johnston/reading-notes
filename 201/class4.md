@@ -19,9 +19,7 @@
 
 ---
 
-## Class 4 Notes - 
-
-Notes go here
+## Class 4 Notes 
 
 ### HTML
 
