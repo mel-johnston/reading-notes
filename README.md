@@ -24,12 +24,12 @@ This is a collection of all my reading notes from CodeFellows courses. I am curr
 #### Code 201
 
 
-- [Class 1](https://melanie-johnston.github.io/reading-notes/201/class1)
-- [Class 2](https://melanie-johnston.github.io/reading-notes/201/class2)
-- [Class 3](https://melanie-johnston.github.io/reading-notes/201/class3)
-- [Class 4](https://melanie-johnston.github.io/reading-notes/201/class4)
-- [Class 5](https://melanie-johnston.github.io/reading-notes/201/class5)
-- [Class 6](https://melanie-johnston.github.io/reading-notes/201/class6)
+- [Class 1 - HTML, CSS, JS](https://melanie-johnston.github.io/reading-notes/201/class1)
+- [Class 2 - HTML, CSS, JS](https://melanie-johnston.github.io/reading-notes/201/class2)
+- [Class 3 - HTML, CSS, JS](https://melanie-johnston.github.io/reading-notes/201/class3)
+- [Class 4 - HTML, CSS, JS](https://melanie-johnston.github.io/reading-notes/201/class4)
+- [Class 5 - HTML, CSS, JS](https://melanie-johnston.github.io/reading-notes/201/class5)
+- [Class 6 - Problem Domain, Objects, and the DOM](https://melanie-johnston.github.io/reading-notes/201/class6)
 - [Class 7](https://melanie-johnston.github.io/reading-notes/201/class7)
 - [Class 8](https://melanie-johnston.github.io/reading-notes/201/class8)
 - [Class 9](https://melanie-johnston.github.io/reading-notes/201/class9)

@@ -43,6 +43,6 @@
  - DOM can be used with other coding languages, such as Python. 
 
 
- #### Things I want to know more about
+#### Things I want to know more about
 
  - Hands on use of DOM 
