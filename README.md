@@ -30,7 +30,7 @@ This is a collection of all my reading notes from CodeFellows courses. I am curr
 - [Class 4 - HTML, CSS, JS](https://melanie-johnston.github.io/reading-notes/201/class4)
 - [Class 5 - HTML, CSS, JS](https://melanie-johnston.github.io/reading-notes/201/class5)
 - [Class 6 - Problem Domain, Objects, and the DOM](https://melanie-johnston.github.io/reading-notes/201/class6)
-- [Class 7](https://melanie-johnston.github.io/reading-notes/201/class7)
+- [Class 7 - Object-Oriented Programming, HTML Tables](https://melanie-johnston.github.io/reading-notes/201/class7)
 - [Class 8](https://melanie-johnston.github.io/reading-notes/201/class8)
 - [Class 9](https://melanie-johnston.github.io/reading-notes/201/class9)
 - [Class 10](https://melanie-johnston.github.io/reading-notes/201/class10)
