@@ -19,6 +19,43 @@
 
 ---
 
-## Class 12 Notes - 
+## Class 12 Notes - JS Canvas & Chart
 
-Notes go here
+### Canvas
+
+What does the `canvas` allow a developer to acheive?
+
+- `canvas` allows you to draw 2D graphics using JavaScript
+
+What is the importance of the closing `</canvas>` tag?
+
+- Any content bewteen the opening and closing tags is fallback content and will display if the `canvas` element isn't supported by the browser.
+
+Explain what the `getContext()` method does.
+
+- The `getContext()` takes one argument which is the type of context.  For example, you use the "2d" to get a 2D rendering context object, which is an instance of the CanvasRenderingContext2D interface.
+
+### Chart.js
+
+What is Chart.js and how it can be brought into your project?
+
+- Chart.js provides a set of commonly used chart types, plug-ins, and customization options. 
+- It has built it chart types and also community created chart types
+
+List 3 different Chart types you can create using Chart.js.
+
+- Bar chart - showing data values represented as veritcal bars
+- Doughnut and Pie Charts - showing relational proportions between data
+- Line chart - plotting data points on a line
+
+What are some advantages to displaying data via a chart over a table?
+
+- Visually, charts are more eye catching, but more importantly, easier to understand and process data.
+
+How could Chart.js aid your previously created applications visually?
+
+- If you used a table to display data, you could easily incorporate Chart.js to re-display that data.
+
+#### Things I want to know more about
+
+Practical ways to incorporte canvas and chart elements into future projects

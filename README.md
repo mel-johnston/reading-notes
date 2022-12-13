@@ -35,7 +35,7 @@ This is a collection of all my reading notes from CodeFellows courses. I am curr
 - [Class 9 - Forms and JS Events](https://melanie-johnston.github.io/reading-notes/201/class9)
 - [Class 10 - Troubleshooting](https://melanie-johnston.github.io/reading-notes/201/class10)
 - [Class 11 - Video, Audio, Grid, & Responsive Images](https://melanie-johnston.github.io/reading-notes/201/class11)
-- [Class 12](https://melanie-johnston.github.io/reading-notes/201/class12)
+- [Class 12 - JS Canvas & Chart](https://melanie-johnston.github.io/reading-notes/201/class12)
 - [Class 13](https://melanie-johnston.github.io/reading-notes/201/class13)
 - [Class 14](https://melanie-johnston.github.io/reading-notes/201/class14)
 - [Class 15](https://melanie-johnston.github.io/reading-notes/201/class15)
