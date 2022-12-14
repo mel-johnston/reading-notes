@@ -18,6 +18,22 @@
 
 ---
 
-## Class 13 Notes - 
+## Class 13 Notes - Local Storage
 
-Notes go here
+Why would a developer use local storage for a web application?
+
+- to cache information for a faster reload
+- to customize an website experience for a user, without them having to create an account and log in
+
+What information should not be stored in local storage?
+
+- information that the user hasn't agreed to storing
+
+Local storage can store what type of data? How would you convert it to that type before storing?
+
+- local storage can only store strings
+- you can work around this by using the native `JSON.stringify()` and `JSON.parse()` methods
+
+#### Things I want to know more about
+
+More practical ways to use local storage
