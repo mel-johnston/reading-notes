@@ -42,7 +42,7 @@ This is a collection of all my reading notes from CodeFellows courses. I am curr
 - [Class 3 - Functions as Props]
 - [Class 4 - React and Forms]
 - [Class 5 - Conditional Rendering, Routing]
-- [Class 6 - Asynchronous Code and Third Party APIs	]
+- [Class 6 - Asynchronous Code and Third Party APIs]
 - [Class 7 - Express Servers]
 - [Class 8 - APIs]
 - [Class 9 - Modularization, Refactoring]

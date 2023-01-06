@@ -53,4 +53,4 @@
 
 #### Things I want to know more about
 
-Can props be used to to affect mulitple components at once?~
+Can props be used to to affect mulitple components at once?
