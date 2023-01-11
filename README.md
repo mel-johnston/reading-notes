@@ -39,7 +39,7 @@ This is a collection of all my reading notes from CodeFellows courses. I am curr
 
 - [Class 1 - React and Component-Based Architecture](https://mel-johnston.github.io/reading-notes/301/class1)
 - [Class 2 - React State and Props](https://mel-johnston.github.io/reading-notes/301/class2)
-- [Class 3 - Functions as Props]
+- [Class 3 - Functions as Props](https://mel-johnston.github.io/reading-notes/301/class3)
 - [Class 4 - React and Forms]
 - [Class 5 - Conditional Rendering, Routing]
 - [Class 6 - Asynchronous Code and Third Party APIs]
