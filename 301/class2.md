@@ -18,7 +18,7 @@
 
 ---
 
-## Class 1 Notes - React and Component-Based Architecture
+## Class 2 Notes - React and Component-Based Architecture
 
 ### React lifecycle
 

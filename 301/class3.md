@@ -18,7 +18,7 @@
 
 ---
 
-## Class 1 Notes - Passing Functions as Props
+## Class 3 Notes - Passing Functions as Props
 
 ### [React Docs - lists and keys](https://reactjs.org/docs/lists-and-keys.html)
 
