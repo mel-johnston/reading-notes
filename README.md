@@ -41,7 +41,7 @@ This is a collection of all my reading notes from CodeFellows courses. I am curr
 - [Class 2 - React State and Props](https://mel-johnston.github.io/reading-notes/301/class2)
 - [Class 3 - Functions as Props](https://mel-johnston.github.io/reading-notes/301/class3)
 - [Class 4 - React and Forms](https://mel-johnston.github.io/reading-notes/301/class4)
-- [Class 5 - Conditional Rendering, Routing]
+- [Class 5 - Conditional Rendering, Routing](https://mel-johnston.github.io/reading-notes/301/class5)
 - [Class 6 - Asynchronous Code and Third Party APIs]
 - [Class 7 - Express Servers]
 - [Class 8 - APIs]
