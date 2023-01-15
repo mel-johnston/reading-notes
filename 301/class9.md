@@ -18,8 +18,30 @@
 
 ---
 
-## Class 9 Notes - Modularization, Refactoring
+## Class 9 Notes - Functional Programming
 
-### Topic 1
+### [Functional Programming Concepts](https://medium.com/the-renaissance-developer/concepts-of-functional-programming-in-javascript-6bc84220d2aa)
 
-#### Things I Want to Know More About
+1. What is functional programming?
+    - Functional programming is a programming paradigm - a style of building the structure and elements of computer programs — that treats computation as the evaluation of mathematical functions and avoids changing-state and mutable data.
+2. What is a pure function and how do we know if something is a pure function?
+    - It returns the same result if given the same arguments (it is also referred as deterministic).
+    - It does not cause any observable side effects.
+3. What are the benefits of a pure function?
+    - The code’s definitely easier to test. We don’t need to mock anything. So we can unit test pure functions with different contexts:
+4. What is immutability?
+    - Unchanging over time or unable to be changed.
+5. What is Referential transparency?
+    - If a function consistently yields the same result for the same input, it is referentially transparent.
+
+
+### [Node JS Tutorial for Beginners](https://www.youtube.com/watch?v=xHLd36QoS4k)
+
+1. What is a module?
+    - A module is a piece of code that is used in another piece of code. It is a way to break down a large program into smaller parts.
+2. What does the word ‘require’ do?
+    - The require() function is used to load and cache JavaScript modules. It is used to load modules dynamically at runtime.
+3. How do we bring another module into the file the we are working in?
+    - We use the require() function to bring another module into the file we are working in.
+4. What do we have to do to make a module available?
+    - We have to export the module.
