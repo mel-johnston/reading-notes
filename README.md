@@ -48,7 +48,7 @@ This is a collection of all my reading notes from CodeFellows courses. I am curr
 - [Class 9 - Modularization, Refactoring]
 - [Class 10 - Persistence]
 - [Class 11 - MongoDB, Mongoose and Data Modeling]
-- [Class 12 - Creating and Deleting resources]
+- [Class 12 - Creating and Deleting Resources]
 - [Class 13 - Updating Resources]
 - [Class 14 - Diversity, Equity, Inclusion in Tech]
 - [Class 15 - Authentication]
