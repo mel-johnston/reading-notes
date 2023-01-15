@@ -20,6 +20,48 @@
 
 ## Class 10 Notes - Persistence
 
-### Topic 1
+### [Understand the JavaScript Call Stack](https://medium.freecodecamp.org/understanding-the-javascript-call-stack-861e41ae61d4)
 
-#### Things I Want to Know More About
+1. What is a ‘call’?
+    - A call is a function invocation (call) expression.
+2. How many ‘calls’ can happen at once?
+    - One call can happen at a time.
+3. What does LIFO mean?
+    - LIFO means Last In, First Out
+4. Draw an example of a call stack and the functions that would need to be invoked to generate that call stack.
+          
+        function firstFunction(){
+          throw new Error('Stack Trace Error');
+        }
+
+        function secondFunction(){
+          firstFunction();
+        }
+
+        function thirdFunction(){
+          secondFunction();
+        }
+
+        thirdFunction();
+
+5. What causes a Stack Overflow?
+    - A stack overflow occurs when there is a recursive function (a function that calls itself) without an exit point.
+
+### [JavaScript Error Messages](https://codeburst.io/javascript-error-messages-debugging-d23f84f0ae7c)
+
+1. What is a ‘reference error’?
+    - A reference error is when you try to use a variable that is not yet declared.
+2. What is a ‘syntax error’?
+    - A syntax error is when you have something that cannot be parsed in terms of syntax.
+3. What is a ‘range error’?
+    - A range error is when you try to manipulate an object with some kind of length and give it an invalid length.
+4. What is a ‘type error’?
+    - A type error is when the types (number, string, etc.) you are trying to use or access are incompatible.
+5. What is a breakpoint?
+    - A breakpoint is a point in your code where you can pause execution and inspect the values that are stored in your variables.
+6. What does the word ‘debugger’ do in your code?
+    - The debugger keyword stops the execution of your code, and calls (if available) the debugging function. This has the same function as setting a breakpoint in the debugger.
+
+### Bookmark and Review
+
+- [JavaScript erroes reference on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors)
