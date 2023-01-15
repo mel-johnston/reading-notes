@@ -44,7 +44,7 @@ This is a collection of all my reading notes from CodeFellows courses. I am curr
 - [Class 5 - Conditional Rendering, Routing](https://mel-johnston.github.io/reading-notes/301/class5)
 - [Class 6 - Node.js](https://mel-johnston.github.io/reading-notes/301/class6)
 - [Class 7 - Rest](https://mel-johnston.github.io/reading-notes/301/class7)
-- [Class 8 - APIs]
+- [Class 8 - APIs](https://mel-johnston.github.io/reading-notes/301/class8)
 - [Class 9 - Modularization, Refactoring]
 - [Class 10 - Persistence]
 - [Class 11 - MongoDB, Mongoose and Data Modeling]
