@@ -22,20 +22,21 @@
 
 ### [SQL vs NoSQL](https://www.thegeekstuff.com/2014/01/sql-vs-nosql-db/)
 
-| SQL | NoSQL  |
-|---|---|
-| Relational Databases (RDBMS) | non-relational or distributed database |
-| table based | document based, key-value pairs, graph or column |
-| predefined schema | dynamic schema for unstructured data |
-| SQL (structured query language) | UnSQL (unstructured query language) |
-| MySQL, Oracle, Sqlite, Postgres, MS-SQL | MongoDB, BigTable, Redis, RavenDb, Cassandra |
-| good for complex query | not good for complex query |
-| not good for hierarchical data | good for heirarchical data |
-| vertically scalable | horizontally scalable |
-| heavy duty transactional based application | not suitable for high load and complex transactional applications |
-| excellent support all databases | mostly community support |
-| ACID properities (Atomicity, Consistency, Isolation, and Durability) | Brewers CAP theorem (Consistency, Availability, and Partition tolerance) |
-| open-source or close-sourced from commercial vendors | stores data as graph databases, key-value store databases, document store databases, column store databases, and XML databases |
+| SQL                                 | NoSQL                                                            |
+|-------------------------------------|------------------------------------------------------------------|
+| Relational Databases (RDBMS)        | non-relational or distributed database                           |
+| table based                         | document based, key-value pairs, graph or column                 |
+| predefined schema                   | dynamic schema for unstructured data                             |
+| SQL (structured query language)     | UnSQL (unstructured query language)                              |
+| MySQL, Oracle, Sqlite, Postgres     | MongoDB, BigTable, Redis, RavenDb, Cassandra                     |
+| good for complex query              | not good for complex query                                       |
+| not good for hierarchical data      | good for heirarchical data                                       |
+| vertically scalable                 | horizontally scalable                                            |
+| heavy duty transactional            | not suitable for high load and complex transaction               |
+| excellent support all databases     | mostly community support                                         |
+| ACID properities                    | Brewers CAP theorem                                              |
+| open-source from commercial vendors | stores data as various databases                                 |
+
 ---
 
 - What kind of data is a good fit for an SQL database?
