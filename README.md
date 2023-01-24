@@ -48,7 +48,7 @@ This is a collection of all my reading notes from CodeFellows courses. I am curr
 - [Class 9 - Functional Programming](https://mel-johnston.github.io/reading-notes/301/class9)
 - [Class 10 - Persistence](https://mel-johnston.github.io/reading-notes/301/class10)
 - [Class 11 - MongoDB, Mongoose and Data Modeling](https://mel-johnston.github.io/reading-notes/301/class11)
-- [Class 12 - Creating and Deleting Resources]
+- [Class 12 - Creating and Deleting Resources](https://mel-johnston.github.io/reading-notes/301/class12)
 - [Class 13 - Updating Resources]
 - [Class 14 - Diversity, Equity, Inclusion in Tech]
 - [Class 15 - Authentication]
