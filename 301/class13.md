@@ -20,6 +20,17 @@
 
 ## Class 13 Notes - Updating Resources
 
-### Topic 1
+### CRUD Basics
+
+Which HTTP method would you use to update a record through an API? PUT
+Which REST methods require an ID parameter? PUT, DELETE
+
+What’s the relationship between REST and CRUD? REST applications often involves the use of CRUD-like functions.
+If you had to describe the process of creating a RESTful API in 5 steps, what would they be?
+- create a server 
+- create a router
+- connect to database
+- create model, schema
+- connect to frontend
 
 #### Things I Want to Know More About
