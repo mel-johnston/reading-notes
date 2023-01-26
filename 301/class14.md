@@ -20,6 +20,12 @@
 
 ## Class 14 Notes - Diversity, Equity, Inclusion in Tech
 
-### Topic 1
+### Consider the history: That Time When Women Stopped Coding
 
-#### Things I Want to Know More About
+What occurred during the same time as the beginning of the decline of women in computer science? Computers in homes were marketed to men
+Why does it matter that males had been playing on computers growing up? They knew how to use a computer and women didn't
+
+When are diversity efforts most successful? Diverse groups of people bring to organizations more and different ways of seeing a problem and, thus, faster/better ways of solving it.
+Why do diverse companies perform better? Diverse teams are smarter and more creative than homogeneous ones.
+Give an example of how a diverse company can serve a diverse user base or vise-versa. When the employees of an organization better represent their users and desired users, they will build more effectively for those groups.
+
