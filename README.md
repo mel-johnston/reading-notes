@@ -51,7 +51,7 @@ This is a collection of all my reading notes from CodeFellows courses. I am curr
 - [Class 12 - Creating and Deleting Resources](https://mel-johnston.github.io/reading-notes/301/class12)
 - [Class 13 - Updating Resources](https://mel-johnston.github.io/reading-notes/301/class13)
 - [Class 14 - Diversity, Equity, Inclusion in Tech](https://mel-johnston.github.io/reading-notes/301/class14)
-- [Class 15 - Authentication]
+- [Class 15 - Authentication](https://mel-johnston.github.io/reading-notes/301/class15)
 
 
 
