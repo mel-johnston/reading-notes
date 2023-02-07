@@ -1,6 +1,6 @@
 # Welcome!
 
-This is a collection of all my reading notes from CodeFellows courses. I am currently in Code 301.
+This is a collection of all my reading notes from CodeFellows courses. I am currently in Code 401.
 
 ---
 
