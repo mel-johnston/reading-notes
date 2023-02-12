@@ -32,3 +32,14 @@ I have become more aware of the impact my words and actions have on those around
 ## Biases
 
 I've noticed certain unconscious biases I have and the impact they can have on my thoughts and actions towards others. I'm making an effort to challenge these biases by seeking out diverse perspectives and actively listening to those with different backgrounds and experiences. I'm working on being more mindful of the language I use and the assumptions I make about others, and am working to replace these with a more open-minded and non-judgmental approach.
+
+## Data Structures
+
+One of the most important things to consider when deciding on the best data structure for a particular problem is the time and space complexity of the various operations that need to be performed on the data. Also, it is also important to consider the type of data you are working with and its characteristics, such as its size, whether it is static or dynamic, and whether it is ordered or unordered.
+
+An infinite recursive call stack occurs when a function calls itself repeatedly without a proper termination condition, causing the stack to grow without bounds. To avoid an infinite recursive call stack, you need to ensure that the recursion terminates when a specific condition is met.
+
+Here are a few common techniques to avoid an infinite recursive call stack:
+- Base case: Define a base case or a terminating condition that will stop the recursion. Once this condition is met, the function should return without making any further recursive calls.
+- Progressive shrinking: Ensure that the inputs to the function are reduced in size with each recursive call, so that eventually the base case will be reached.
+- Proper ordering of the recursive calls: If the function makes multiple recursive calls, you need to make sure that each call leads to a smaller problem, so that the recursion terminates.
