@@ -61,7 +61,16 @@ This is a collection of all my reading notes from CodeFellows courses. I am curr
 
 ## [Code 401 - Advanced Software Development](https://github.com/codefellows/seattle-code-javascript-401d51)
 
+### Readings
+
+- [Class 01 - Node Ecosystem](https://mel-johnston.github.io/reading-notes/401/class-01)
+- [Class 02]
+
 - [Prework](https://mel-johnston.github.io/reading-notes/401/prework)
+
+### Code Challenges
+
+- [Code Challenge - 01](https://mel-johnston.github.io/reading-notes/401/code-challenges/challenge-01.md)
 
 
 ---
